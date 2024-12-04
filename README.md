@@ -12,7 +12,7 @@ The input file must contain 9 lines of 9 characters each. Each character must be
 
 There is no checking or validation. The user must ensure that they're sending the correct file.
 
-If you're using the Just runner, you may paste the file in `inputs/sudoku_inpnut`, and run
+If you're using the Just runner, you may paste the file in `inputs/sudoku_input`, and run
 
 ```
 just
